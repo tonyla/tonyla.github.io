@@ -101,7 +101,7 @@ the human mind. It will make the time which you spend inside code much more enjo
 
 I'd definitely recommend it to anyone that is considering taking the 4k dive.
 
-{% img /images/posts/4kp/new.JPG 600 auto %}
+{% img /images/posts/4kp/new.JPG 900 auto %}
 
 Excuse the mess
 
