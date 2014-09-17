@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The 4k Programmer"
-date: 2014-09-14 19:28:34 -0400
+date: 2014-09-17 19:28:34 -0400
 comments: true
 categories:
 - Developer Tools
