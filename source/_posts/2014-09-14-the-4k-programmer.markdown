@@ -81,14 +81,14 @@ Because the way that colors work ([YPbPr](http://en.wikipedia.org/wiki/YPbPr)) t
 
 The solution is hidden away in the service menu. THe service menu is accessable by brining up the regular menu
 
-{% img /images/posts/4kp/menu.jpg 600 auto %}
+{% img /images/posts/4kp/menu.JPG 600 auto %}
 
 Then you press the number 0 four times and it will open up the service menu
 
-{% img /images/posts/4kp/service-menu.jpg 600 auto %}
+{% img /images/posts/4kp/service-menu.JPG 600 auto %}
 
 Hidden away in the "other" option at the bottom is the "LED Backlight option".
-{% img /images/posts/4kp/other-menu.jpg 600 auto %}
+{% img /images/posts/4kp/other-menu.JPG 600 auto %}
 
 This is what solved the issue of extreme brightness and poor color reproduction on this monitor. It made such a difference this experient when from a boarderline success to
 a complete success. It has made the montior usable for long periods of time for development.
@@ -101,7 +101,7 @@ the human mind. It will make the time which you spend inside code much more enjo
 
 I'd definitely recommend it to anyone that is considering taking the 4k dive.
 
-{% img /images/posts/4kp/new.jpg 600 auto %}
+{% img /images/posts/4kp/new.JPG 600 auto %}
 
 Excuse the mess
 
