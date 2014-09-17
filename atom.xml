@@ -4,7 +4,7 @@
   <title><![CDATA[Tony La's Blog]]></title>
   <link href="tonyla.me/atom.xml" rel="self"/>
   <link href="tonyla.me/"/>
-  <updated>2014-09-17T12:01:50-04:00</updated>
+  <updated>2014-09-17T12:06:41-04:00</updated>
   <id>tonyla.me/</id>
   <author>
     <name><![CDATA[Tony La]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The 4k Programmer]]></title>
-    <link href="tonyla.me/blog/2014/09/14/the-4k-programmer"/>
-    <updated>2014-09-14T19:28:34-04:00</updated>
-    <id>tonyla.me/blog/2014/09/14/the-4k-programmer</id>
+    <link href="tonyla.me/blog/2014/09/17/the-4k-programmer"/>
+    <updated>2014-09-17T19:28:34-04:00</updated>
+    <id>tonyla.me/blog/2014/09/17/the-4k-programmer</id>
     <content type="html"><![CDATA[<p>In my internet travels I happened across this link <a href="http://tiamat.tsotech.com/4k-is-for-programmers">(4k is for programmers)</a> about using a 4k Seiki as a primary display.
 As I&rsquo;ve always been a believer in more pixels, I figured why not give this a shot.</p>
 
@@ -31,7 +31,7 @@ As I&rsquo;ve always been a believer in more pixels, I figured why not give this
 </ul>
 
 
-<p><img src="tonyla.me/images/posts/4kp/before.jpg" width="600" title="auto" ></p>
+<p><img src="tonyla.me/images/posts/4kp/before.jpg" width="900" title="auto" ></p>
 
 <h2>Setup and Installation</h2>
 
