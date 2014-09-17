@@ -7,7 +7,8 @@ title: Tony La's Blog
 subtitle: My own ramblings.
 author: Tony La
 simple_search: https://www.google.com/search
-description: This is a personal blog dedicated to anything I can think of and have the motivation to write down.
+description: My name is Tony La and I'm a software consultant based out of Toronto, Canada. I'm an ex-Microsoft developer that saw the light and converted over to Ruby/Rails back in  2007.
+  Now I help small to medium size business with all their web application needs - <a href="http://digitalalch.com">Digital Alchemy</a>
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
