@@ -2,24 +2,30 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   
+  <url>
+    <loc>http://tonyla.github.io/blog/2014/09/14/the-4k-programmer/</loc>
+    <lastmod>2014-09-14T19:28:34-04:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
   
   <url>
     <loc>http://tonyla.github.io/</loc>
-    <lastmod>2014-08-15T18:45:45-04:00</lastmod>
+    <lastmod>2014-09-16T22:40:57-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>http://tonyla.github.io/blog/archives/</loc>
-    <lastmod>2014-08-15T18:45:45-04:00</lastmod>
+    <lastmod>2014-09-16T22:40:57-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://tonyla.github.io/posts/</loc>
-    <lastmod>2014-08-15T18:45:45-04:00</lastmod>
+    <lastmod>2014-09-16T22:40:57-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
