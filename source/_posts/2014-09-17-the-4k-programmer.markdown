@@ -18,7 +18,7 @@ The setup that I was replacing was
 * 2 x 24 inch monitors (one Samsung and one Dell) on 2 [Ergotron LX desk mounted arms](http://www.ergotron.com/tabid/65/PRDID/351/language/en-CA/default.aspx)
 * 1 x Late 2012 model Mac mini
 
-{% img /images/posts/4kp/before.jpg 600 auto %}
+{% img /images/posts/4kp/before.jpg 900 auto %}
 
 ## Setup and Installation
 
