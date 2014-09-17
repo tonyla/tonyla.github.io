@@ -8,7 +8,7 @@ categories:
 - Remote Office
 ---
 
-In my internet travells I happened across this link [(4k is for programmers)](http://tiamat.tsotech.com/4k-is-for-programmers) about using a 4k Seiki as a primary display.
+In my internet travels I happened across this link [(4k is for programmers)](http://tiamat.tsotech.com/4k-is-for-programmers) about using a 4k Seiki as a primary display.
 As I've always been a believer in more pixels, I figured why not give this a shot.
 
 ## My Old Setup
@@ -38,7 +38,7 @@ As far as I can gather this piece along with some software shenanigans (detailed
 ###Software
 
 #### [Mac Pixel Clock Patch](https://github.com/vinc3m1/mac-pixel-clock-patch)
-In conjuction with the Accell adapter most current Mac mini's and macbooks require a software patch to run 4k displays @ 30 Hz. I believe if you don't do this the highest refresh rate you are able to connect at is 18Hz if it runs at all.
+In conjunction with the Accell adapter most current Mac mini's and macbooks require a software patch to run 4k displays @ 30 Hz. I believe if you don't do this the highest refresh rate you are able to connect at is 18Hz if it runs at all.
 
 Unfortunately at the time of writing this post this and the many other variants out there have not updated for OSX 10.9.4 yet. I did go through the steps in the README.md and verified that the patch command for 10.9.2 is still valid just the MD5 of the file has changed.
 So I just ran these commands manually as root, be very careful to backup IOKit as if something goes wrong you may need to restore it via recovery console.
@@ -58,7 +58,7 @@ I've had this setup running for over a month and overall I can say my experience
 ### Pros
 
 * Less scrolling when reading code
-* Less application switching because you have more active appliactions
+* Less application switching because you have more active applications
 * Text is crisp and it isn't too small
 * This monitor is one of the most inexpensive "upgrades" I have done
 * Watching videos looks really good
@@ -79,7 +79,7 @@ Because the way that colors work ([YPbPr](http://en.wikipedia.org/wiki/YPbPr)) t
 
 #### Solution
 
-The solution is hidden away in the service menu. THe service menu is accessable by brining up the regular menu
+The solution is hidden away in the service menu. The service menu is accessible by brining up the regular menu
 
 {% img /images/posts/4kp/menu.JPG 600 auto %}
 
@@ -90,8 +90,8 @@ Then you press the number 0 four times and it will open up the service menu
 Hidden away in the "other" option at the bottom is the "LED Backlight option".
 {% img /images/posts/4kp/other-menu.JPG 600 auto %}
 
-This is what solved the issue of extreme brightness and poor color reproduction on this monitor. It made such a difference this experient when from a boarderline success to
-a complete success. It has made the montior usable for long periods of time for development.
+This is what solved the issue of extreme brightness and poor color reproduction on this monitor. It made such a difference that this experiment went from a borderline success to
+a complete success. It has made the monitor usable for long periods of time for development.
 
 ## Conclusions
 
